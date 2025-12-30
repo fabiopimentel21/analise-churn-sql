@@ -1,4 +1,4 @@
-# analise-churn-sql
+# Analise-churn-sql
 codigo-sql
 # 📊 Monitoramento de Churn Rate com SQL
 
